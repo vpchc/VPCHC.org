@@ -11,7 +11,7 @@
 <div id="maincontent">
       <h1>Nurse Practitioner Joins Health Center</h1>
       <p>December 7, 2012</p>
-      <p>he Vermillion-Parke Community Health Center (VPCHC) would like to welcome Family Nurse Practitioner, Mary Davidson, FNP-C. </p>
+      <p>he Valley Professionals Community Health Center (VPCHC) would like to welcome Family Nurse Practitioner, Mary Davidson, FNP-C. </p>
       <p>Mary is a 2008 graduate of Indiana Wesleyan University, where she earned her master&rsquo;s degree from the Family Nurse Practitioner program. </p>
       <p>Mary has worked in a variety of clinical settings, where she has gained much experience and opportunities to provide care to many patients.  Her experience includes working as a registered nurse at Union Hospital Pain Clinic, Wabash Valley Surgery Center, Clarian West Medical Center, in various departments such as critical care, intensive care unit (ICU), medical/surgical, and emergency room.  Mary has also worked in the Union Hospital Emergency Room as a registered nurse and then as a family nurse practitioner. </p>
       <p>Mary will be the primary medical provider at the VPCHC Cayuga health center.  Mary&rsquo;s schedule will allow consistent, continuity of care for patients that receive medical care and treatment at the health center. She excited to join the VPCHC team and looks forward to serving the community and providing the best care possible.</p>
@@ -28,6 +28,6 @@
   </div>
     <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

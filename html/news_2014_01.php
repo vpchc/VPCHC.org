@@ -11,7 +11,7 @@
     <div id="maincontent">
       <h1>VPCHC Physician Position Description </h1>
       <p>January 13, 2014</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) is a Federally Qualified Health Center (FQHC) with offices in Clinton, Cayuga and Bloomingdale, Indiana, as well as a Mobile School-Based Health Center.  VPCHC&rsquo;s mission is to serve the health care needs of our communities, particularly the underserved portions of the population in our mostly rural service area.  VPCHC draws patients from Vermillion and Parke counties, where our offices are currently located, as well as surrounding areas.  Current sites are conveniently located just north of the larger community of Terre Haute and within approximately an hour of Indianapolis. </p>
+      <p>Valley Professionals Community Health Center (VPCHC) is a Federally Qualified Health Center (FQHC) with offices in Clinton, Cayuga and Bloomingdale, Indiana, as well as a Mobile School-Based Health Center.  VPCHC&rsquo;s mission is to serve the health care needs of our communities, particularly the underserved portions of the population in our mostly rural service area.  VPCHC draws patients from Vermillion and Parke counties, where our offices are currently located, as well as surrounding areas.  Current sites are conveniently located just north of the larger community of Terre Haute and within approximately an hour of Indianapolis. </p>
       <p>VPCHC is only six years old, but has grown exponentially in that time from only four employees, to over 50 today.  There is currently much momentum for growth and expansion with a number of possibilities for additional sites in the Wabash Valley. </p>
       <p>VPCHC currently has a staff of four physicians and six nurse practitioners, but is losing one of the physicians who has elected to move back to her native New England area to be near family.  This has created an opening for a physician to continue to meet the needs of our patients at VPCHC. </p>
       <p>VPCHC&rsquo;s Clinton site has recently been recognized as a Level 3 Patient Centered Medical Home, a distinction awarded only to facilities which have demonstrated a significant and sustained commitment to patient-focused care.   This impacts how we structure our clinicians&rsquo; days, encouraging a team-focused approach to care delivery, including daily team &ldquo;huddles&rdquo; to ensure we are well prepared to meet the global needs of patients for the day, as well as an emphasis on preventive health appointments and trying to create enough margin in schedules that preventive health needs can be addressed even during acute visits, if appropriate.  Overall, the transition to PCMH has improved our providers&rsquo; satisfaction with the work environment.  VPCHC is currently in the process of transitioning the other clinical sites to PCMH status as well.  VPCHC also has a strongly integrated Behavioral Health program, with Behavioral Health providers present on site at all locations. </p>
@@ -31,6 +31,6 @@
   <!-- InstanceEndEditable --></div>
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 <!-- InstanceEnd --></html>

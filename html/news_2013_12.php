@@ -11,7 +11,7 @@
 <div id="maincontent">
       <h1>New Medical and Behavioral Health Providers Join Health Center </h1>
       <p>October 28, 2013</p>
-      <p>The Vermillion-Parke Community Health Center (VPCHC) would like to welcome Family Practitioner, Aziz Abed, M.D., MPH, and behavioral health provider, Jan Warner, MAC, to its health center.</p>
+      <p>The Valley Professionals Community Health Center (VPCHC) would like to welcome Family Practitioner, Aziz Abed, M.D., MPH, and behavioral health provider, Jan Warner, MAC, to its health center.</p>
       <p>Dr. Abed is a graduate of St. George&rsquo;s University School of Medicine, the University of Illinois at Chicago - School of Public Health, and completed undergraduate studies at University of Illinois at Chicago. </p>
       <p>Dr. Abed completed his medical residency training through Union Hospital Family Medicine Residency Program in Terre Haute. He also visited VPCHC on medical rotations during his residency.<br />
         <br />
@@ -36,6 +36,6 @@
   </div>
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

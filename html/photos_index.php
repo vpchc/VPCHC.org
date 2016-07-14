@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/contentwithsidebar.dwt" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <?php include("../includes/header.php"); ?>
 </head>
@@ -7,10 +7,16 @@
 <body>
 <div id="masterbox">
     <?php include("../includes/navigation.php"); ?>
-  <div id="bodycontainer"><!-- InstanceBeginEditable name="maincontent" -->
-    <div id="maincontent">
+  <div id="bodycontainer">
+<div id="maincontent">
       <h1>Photos</h1>
       <p>Recent collections of photos:      </p>
+      <h2>Terre Haute Tribune Star - Community Progress Update</h2>
+      <p>August 2015</p>
+      <p><a href="photos_2015_02.php"><img src="../images/homepage_photos_2015_02.jpg" alt="Caring Professionals in Your Community" width="209" height="279" border="0" /></a></p>
+      <p><a href="photos_2015_02.php">See photo</a></p>
+      <p></p>
+      <p>&nbsp;</p>
       <h2>Caring Professionals in Your Community</h2>
       <p>March 2015</p>
       <p><a href="photos_2015_01.php"><img src="../images/homepage_photos_2015_01.jpg" alt="Caring Professionals in Your Community" width="279" height="209" border="0" /></a></p>
@@ -105,18 +111,16 @@
       <p><a href="../index.php">Back to home page </a></p>
       <p>&nbsp;</p>
     </div>
-  <!-- InstanceEndEditable -->
-  <!-- InstanceBeginEditable name="rightsidebar" -->
   <div id="rightsidebar">
     <h3>See also:  </h3>
     <p><a href="events_index.php">List of VPCHC upcoming events</a></p>
     <p><a href="news_index.php">VPCHC News</a> </p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
+</div>
   </div>
-  <!-- InstanceEndEditable --></div>
   <?php include("../includes/footer.php"); ?>
 </div>
 <script src="/scripts/buttonChange.js"></script>
 </body>
-<!-- InstanceEnd --></html>
+</html>

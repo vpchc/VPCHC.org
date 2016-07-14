@@ -10,7 +10,7 @@
 <div id="maincontent">
       <h1>Health Center Collects for Holiday Food Drive</h1>
       <p>December 20, 2012</p>
-      <p>The Vermillion-Parke Community Health Center (VPCHC) recently held a holiday food drive, providing donations to local community food banks in Vermillion and Parke counties to benefit families within the area. </p>
+      <p>The Valley Professionals Community Health Center (VPCHC) recently held a holiday food drive, providing donations to local community food banks in Vermillion and Parke counties to benefit families within the area. </p>
       <p>The health center staff raised a total of over 1,600 items, amongst the various staff departments and plans to hold the food drive as an annual event. </p>
       <p>VPCHC appreciates the individuals and families we are able to serve through the local communities and wanted to share this appreciation by giving back,&rdquo; stated Tiffani Martin, human resources manager.  &ldquo;This sparked the idea of having a holiday food drive with our staff.&rdquo;</p>
       <p>VPCHC is a Federally Qualified Health Center (FQHC) dedicated to providing comprehensive primary health care and related services for ALL individuals and families. VPCHC provides primary and preventive health care services, along with behavioral health services to the citizens of Vermillion and Parke counties, and surrounding communities. </p>
@@ -29,6 +29,6 @@
   </div>
     <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

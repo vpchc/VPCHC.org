@@ -10,7 +10,7 @@
 <div id="maincontent">
       <h1>Bloomingdale Health Center to Open</h1>
       <p>January 4, 2013</p>
-      <p>The Vermillion-Parke Community Health Center (VPCHC) is excited to announce the opening of its new Bloomingdale Community Health Center on January 7th, located at 201 W. Academy Street in Bloomingdale, Indiana.</p>
+      <p>The Valley Professionals Community Health Center (VPCHC) is excited to announce the opening of its new Bloomingdale Community Health Center on January 7th, located at 201 W. Academy Street in Bloomingdale, Indiana.</p>
       <p>To schedule an appointment, please call the Bloomingdale health center at (765) 498-9000, during 8:00 a.m. to 5:00 p.m., Monday through Friday. </p>
       <p>&ldquo;We are extremely excited to be expanding access to Bloomingdale and the surrounding areas.&nbsp; Without the support of the Town of Bloomingdale, we would not have been able to expand services.&nbsp; We look forward to serving any and all individuals at our new community health center,&rdquo; stated Elizabeth Burrows, CEO of VPCHC.</p>
       <p>The Bloomingdale health center is comprised of 3,000 square feet and includes state of the art energy efficient features such as a multi-zone HVAC system, high quality insulation values in the roof and walls and energy efficient lighting. In addition, wireless access will be utilized throughout the facility.</p>
@@ -27,6 +27,6 @@
   </div>
     <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

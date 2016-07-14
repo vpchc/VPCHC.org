@@ -83,6 +83,6 @@
   <!-- InstanceEndEditable -->
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 <!-- InstanceEnd --></html>

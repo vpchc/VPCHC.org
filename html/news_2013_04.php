@@ -11,11 +11,11 @@
 <div id="maincontent">
       <h1>Grand Opening Set for Bloomingdale Health Center</h1>
       <p>February 15, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) is hosting a Grand Opening celebration on Wednesday, February 27th, in honor of its new, recently opened health center located at 201 W. Academy St. in Bloomingdale, Ind. <br />
+      <p>Valley Professionals Community Health Center (VPCHC) is hosting a Grand Opening celebration on Wednesday, February 27th, in honor of its new, recently opened health center located at 201 W. Academy St. in Bloomingdale, Ind. <br />
       </p>
       <p>The Grand Opening will be held from 11:30 a.m. to 1:30 p.m., with a speaker ceremony beginning at 12:00 noon, followed by a ribbon cutting with the Parke County Chamber of Commerce. The public is welcome to tour the new health center facility and also meet the Bloomingdale medical providers, Dr. Eric Beachy and Family Nurse Practitioner, Carrie Cunningham.<br />
       </p>
-      <p>&ldquo;The opening of the Bloomingdale health center creates access to health care for patients in a town where there has been no medical provider.  The Town of Bloomingdale and Vermillion-Parke Community Health Center partnered together, creating the opportunity for access to health care, quality employment and dedication to this beautiful community,&rdquo; stated Elizabeth Burrows, health center CEO.<br />
+      <p>&ldquo;The opening of the Bloomingdale health center creates access to health care for patients in a town where there has been no medical provider.  The Town of Bloomingdale and Valley Professionals Community Health Center partnered together, creating the opportunity for access to health care, quality employment and dedication to this beautiful community,&rdquo; stated Elizabeth Burrows, health center CEO.<br />
       </p>
       <p>The Bloomingdale health center opened on January 7, 2013.  The facility is comprised of 3,000 square feet and includes state of the art energy efficient features such as a multi-zone HVAC system, high quality insulation values in the roof and walls and energy efficient lighting. <br />
       </p>
@@ -34,6 +34,6 @@
   </div>
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

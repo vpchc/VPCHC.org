@@ -9,34 +9,54 @@
   <div id="bodycontainer">
 <div id="maincontent">
       <h1>Contact us </h1>
-      <h3>Cayuga </h3>
-      <p>Phone (765) 492-9042<br />
-        Fax (765) 492-9048</p>
-      <p>Address:<br />
-        Valley Professionals Community Health Center<br />
-        114 N. Divison St.<br />
-      Cayuga, IN 47928<br />
-      </p>
-      <h3>Clinton </h3>
-      <p>Phone (765) 828-1003<br />
-        Fax (765) 828-1030</p>
-      <p>Address:<br />
-        Valley Professionals Community Health Center<br />
-        777 S. Main Street, Suite 100<br />
-      Clinton, IN 47842<br />
-      </p>
-      <h3>Bloomingdale </h3>
-      <p>Phone (765) 498-9000<br />
-        Fax (765) 498-9004 </p>
-      <p>Address:<br />
-        Valley Professionals Community Health Center<br />
-        201 W. Academy St.<br />
-        Bloomingdale, IN 47832<br />
+      <h3><u>Bloomingdale</u></h3>
+      <p><b>Phone:</b> (765) 498-9000<br />
+        <b>Fax:</b> (765) 498-9004 </p>
+      <p><b>Address:</b><br />
+         &nbsp Valley Professionals Community Health Center<br />
+         &nbsp 201 W. Academy St.<br />
+         &nbsp Bloomingdale, IN 47832<br />
         <br />
       </p>
-      <h3>Mobile School-Based Health Center</h3>
-      <p>Phone &nbsp;(765) 592-6164<br />
-        Email &nbsp;&nbsp;<a href="mailto:mobile@vpchc.org">mobile@vpchc.org</a><br />
+      <h3><u>Cayuga</u></h3>
+      <p><b>Phone:</b> (765) 492-9042<br />
+        <b>Fax:</b> (765) 492-9048</p>
+      <p><b>Address:</b><br />
+        &nbsp Valley Professionals Community Health Center<br />
+        &nbsp 114 N. Divison St.<br />
+        &nbsp Cayuga, IN 47928<br />
+        <br />
+      </p>
+      <h3><u>Clinton</u></h3>
+      <p><b>Phone:</b> (765) 828-1003<br />
+        <b>Fax:</b> (765) 828-1030</p>
+      <p><b>Address:</b><br />
+        &nbsp Valley Professionals Community Health Center<br />
+        &nbsp 777 S. Main Street, Suite 100<br />
+        &nbsp Clinton, IN 47842<br />
+        <br />
+      </p>
+      <h3><u>Crawfordsville</u></h3>
+      <p><b>Phone:</b> (765) 362-5100<br />
+        <b>Fax:</b> (765) 362-5171</p>
+      <p><b>Address:</b><br />
+        &nbsp Valley Professionals Community Health Center<br />
+        &nbsp 1810 Lafayette Rd<br />
+        &nbsp Crawfordsville, IN 47933<br />
+        <br />
+      </p>
+      <h3><u>Terre Haute</u></h3>
+      <p><b>Phone:</b> (812) 238-7631<br />
+        <b>Fax:</b> (812) 238-7003</p>
+      <p><b>Address:</b><br />
+        &nbsp Valley Professionals Community Health Center<br />
+        &nbsp 1530 N. 7th St., Suite 201<br />
+        &nbsp Terre Haute, IN 47807<br />
+        <br />
+      </p>
+      <h3><u>Mobile School-Based Health Center</u></h3>
+      <p><b>Phone:</b> &nbsp;(765) 592-6164<br />
+        <b>Email:</b> &nbsp;&nbsp;<a href="mailto:mobile@vpchc.org">mobile@vpchc.org</a><br />
         &nbsp;<br />
         <br />
       </p>
@@ -59,6 +79,6 @@
   </div>
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

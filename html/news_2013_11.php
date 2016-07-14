@@ -11,7 +11,7 @@
 <div id="maincontent">
       <h1>Local Community Health Workers Help with Insurance Enrollment </h1>
       <p>October 14, 2013</p>
-      <p>Vermillion-Parke Community Health Center is pleased to announce the addition of Community Health Workers (CHW) to its staff.  The role of a CHW involves linking health care services to the communities they serve. </p>
+      <p>Valley Professionals Community Health Center is pleased to announce the addition of Community Health Workers (CHW) to its staff.  The role of a CHW involves linking health care services to the communities they serve. </p>
       <p>The responsibilities of a CHW include assisting individuals and families in navigating through the new Insurance Marketplace, connecting patients to local resources in their community, counseling patients on preventive health care behaviors, reducing unnecessary hospital readmissions, and complimenting the Patient Centered Medical Home model.</p>
       <p>The CHWs will be at various community locations such as VPCHC&rsquo;s three health centers in Clinton, Cayuga and Bloomingdale, as well as the Mobile Health Center, county courthouses, and local libraries. Additional places may include Union Hospital Clinton, Rockville Learning Center, local food banks and many other events around the community. </p>
       <p>Anyone is welcome to contact the Community Health Workers directly. For questions or more information, call (765) 828-3230. </p>
@@ -31,6 +31,6 @@
   </div>
    <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

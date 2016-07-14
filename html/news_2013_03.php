@@ -11,7 +11,7 @@
 <div id="maincontent">
       <h1>Medical Officer Joins Health Center</h1>
       <p>January 10, 2013</p>
-      <p>The Vermillion-Parke Community Health Center would like to welcome its new Chief Medical Officer, Dr. Eric D. Beachy. </p>
+      <p>The Valley Professionals Community Health Center would like to welcome its new Chief Medical Officer, Dr. Eric D. Beachy. </p>
       <p>Dr. Beachy graduated from the Indiana University School of Medicine and completed his undergraduate studies at Bethel College in Mishawaka, IN.</p>
       <p>Dr. Beachy completed his medical residency training through Union Hospital Family Medicine Residency Program in Terre Haute in 2001. He is board certified through the American Board of Family Medicine and is a member of the American Academy of Family Physicians and the Christian Medical/Dental Association.<br />
         </p>
@@ -30,6 +30,6 @@
   </div>
       <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

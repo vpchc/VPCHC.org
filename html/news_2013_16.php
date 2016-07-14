@@ -11,7 +11,7 @@
     <div id="maincontent">
       <h1>Inter-Professional Education Program for Local Medical Students </h1>
       <p>December 9, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) recently hosted a student pilot program in partnership with the Rural Health Innovation Collaborative (RHIC), at its Bloomingdale health center.  The program focused on the concept of inter-professional education, with a group of local medical students led by VPCHC Chief Medical Officer, Dr. Eric Beachy.</p>
+      <p>Valley Professionals Community Health Center (VPCHC) recently hosted a student pilot program in partnership with the Rural Health Innovation Collaborative (RHIC), at its Bloomingdale health center.  The program focused on the concept of inter-professional education, with a group of local medical students led by VPCHC Chief Medical Officer, Dr. Eric Beachy.</p>
       <p>The program is designed to prepare students from various health care settings to collaborate and work effectively as an inter-professional team to promote the best health care outcomes for patients. </p>
       <p>&ldquo;Traditionally, health care professionals have been educated in silos, with very little interaction with students in other health care settings.  An example would be mental health and physician education, where it is obvious that the patient&rsquo;s best interests are served by the two healthcare areas working together,&rdquo; stated Dr. James Buechler, a RHIC board member.  &ldquo;This project is part of the early stages of a national movement to better prepare our health care workforce for collaborative practice.&rdquo;</p>
       <p>During this program, students met with patients separately or in a group and later reviewed to report and discuss their observations. Students also met as a group to discuss patient visits and the unique role of each health care area in the management of patient care. </p>
@@ -32,6 +32,6 @@
   <!-- InstanceEndEditable --></div>
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 <!-- InstanceEnd --></html>

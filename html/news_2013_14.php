@@ -11,7 +11,7 @@
 <div id="maincontent">
       <h1>New Providers Join Health Center </h1>
       <p>November 18, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) welcomes Family Nurse Practitioner, Louwanna Wallace, and Licensed Clinical Social Worker, Tasha Lewis-Stevens, to the health center.</p>
+      <p>Valley Professionals Community Health Center (VPCHC) welcomes Family Nurse Practitioner, Louwanna Wallace, and Licensed Clinical Social Worker, Tasha Lewis-Stevens, to the health center.</p>
       <p>Louwanna Wallace, FNP, is a Certified Family Nurse Practitioner with over 17 years of primary care experience.  She is a graduate of Indiana State University, where she earned her master&rsquo;s degree through the Family Nurse Practitioner program. </p>
       <p>Wallace has worked in a variety of clinical settings, which includes working as a clinical instructor/adjunct faculty, a nursing care manager and intensive care unit nurse at Union Hospital in Terre Haute, IN, and also as a Family Nurse Practitioner at EZ Care Clinic and Family Medical Center in Paris, IL.</p>
       <p> &ldquo;I enjoy working as a nurse practitioner in family practice because I have been able to develop long term relationships with patients and families and provide a medical home, to help guide patients through all aspects of their healthcare,&rdquo; stated Wallace. &nbsp;&ldquo;I like to make a difference in the lives of patients by providing preventive services and education, as well as taking care of acute and chronic medical problems. &nbsp;I also look forward to working in the area where I was raised.&rdquo;</p>
@@ -32,6 +32,6 @@
   </div>
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

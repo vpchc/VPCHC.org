@@ -16,16 +16,16 @@
         <div id="nteam_cms_area_1" class="cms-editable">
 <p><strong>T.J. Warren</strong><br />Chief Executive Officer <br /><a href="mailto:twarren@vpchc.org">twarren@vpchc.org</a></p>
 <p><strong>Eddie McFarland</strong><br />Chief Operating Officer<br /><a href="mailto:emcfarland@vpchc.org">emcfarland@vpchc.org</a></p>
-<p><strong>Julia Wernz, Ph.D. HSPP</strong> <br />Director of Behavioral Health</p>
+<p><strong>Julia Wernz, Ph.D. HSPP</strong> <br />Director of Behavioral Health <br /><a href="mailto:jwernz@vpchc.org">jwernz@vpchc.org</a></p>
 <p><strong>Tiffani Martin, J.D.</strong><br />Director of Human Resources <br />&amp; Compliance <br /><a href="mailto:tmartin@vpchc.org">tmartin@vpchc.org</a></p>
 <p><strong>Stephanie Jeffery</strong><br />
 Director of Quality &amp; Risk Management<br />
 <a href="mailto:sjeffery@vpchc.org">sjeffery@vpchc.org</a></p>
-<p><strong>Sara Burnett, RN<br /></strong>Clinical Nurse Manager <br /><a href="mailto:sburnett@vpchc.org">sburnett@vpchc.org</a></p>
-<p><strong>Mary Helderman, RN, BSN<br /></strong>Site&nbsp;Manager <br /><a href="mailto:mhelderman@vpchc.org">mhelderman@vpchc.org</a></p>
+<p><strong>Devan Busenbark, RN<br /></strong>Site Manager - Clinton<br /><a href="mailto:dbusenbark@vpchc.org">dbusenbark@vpchc.org</a></p>
+<p><strong>Mary Helderman, RN, BSN<br /></strong>Site Manager - Bloomingdale,Cayuga<br /><a href="mailto:mhelderman@vpchc.org">mhelderman@vpchc.org</a></p>
 <p><strong>Paul Utterback</strong><br />
-Controller<br /><a href="mailto:putterback@vpchc.org">putterback@vpchc.org</a></p>
-<p><strong>Amy Reed</strong><br />Marketing &amp; Grants&nbsp;Manager<br /><a href="mailto:areed@vpchc.org">areed@vpchc.org</a></p>
+Chief Financial Officer<br /><a href="mailto:putterback@vpchc.org">putterback@vpchc.org</a></p>
+<p><strong>Amy Reed</strong><br />Director of Development<br /><a href="mailto:areed@vpchc.org">areed@vpchc.org</a></p>
 <p>&nbsp;</p>
 <p>Administration phone number:<br />(765) 828-3256</p>
 </div></td>
@@ -62,8 +62,8 @@ Controller<br /><a href="mailto:putterback@vpchc.org">putterback@vpchc.org</a></
           <a href="team_warner.php">See bio</a>        </p>        
         <p><strong>Tasha Lewis-Stevens, LCSW</strong><br />
           <a href="team_lewis-stevens.php">See bio</a>        </p>
-        <p><strong>Dana Edwardson, LMHCA</strong><br />
-        <a href="team_edwardson.php">See bio</a>        </p></td>
+        <p><strong>Dana Tinkle, LMHCA</strong><br />
+          <a href="team_tinkle.php">See bio</a></p></td>
         <td width="33%" valign="top"><h2>Clinical staff</h2>
           <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tr valign="top">
@@ -124,16 +124,10 @@ Controller<br /><a href="mailto:putterback@vpchc.org">putterback@vpchc.org</a></
             </tr>
           </table>
           <p>&nbsp;</p>
-          <h2>Community &amp; Financial Resource Contacts          </h2>
-          <p><strong>Devan Busenbark</strong><br />
-            Resource &amp; Outreach Coordinator<br />
-  <a href="mailto:dbusenbark@vpchc.org">dbusenbark@vpchc.org</a></p>
-          <h2><br />
-          Community Health Workers </h2>
-          <p><strong>Nikki Varwig</strong><br />
-  <a href="mailto:nvarwig@vpchc.org">nvarwig@vpchc.org</a></p>
-          <p><strong>Nikkie Gilbert</strong><br />
-          <a href="mailto:ngilbert@vpchc.org">ngilbert@vpchc.org</a>          </p>
+          
+          <h2>Community Health Workers </h2>
+          <p><strong>Nikki Southwood</strong><br />
+            <a href="mailto:nsouthwood@vpchc.org">nsouthwood@vpchc.org</a></p>
           <p><strong>Becky Myers</strong><br />
         <a href="mailto:bmyers@vpchc.org">bmyers@vpchc.org</a></p></td>
       </tr>
@@ -143,6 +137,6 @@ Controller<br /><a href="mailto:putterback@vpchc.org">putterback@vpchc.org</a></
   <!-- InstanceEndEditable -->
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 <!-- InstanceEnd --></html>

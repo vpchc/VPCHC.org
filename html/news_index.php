@@ -11,6 +11,19 @@
     <div id="maincontent">
       <h1>News</h1>
       <p>Recent news articles:      </p>
+      <h2>Terre Haute Tribune Star - Community Progess Update</h2>
+      <p>August, 2015</p>
+      <p>What questions come to mind when searching for a healthcare provider? Will I receive quality
+care? I don't have health insurance; can I afford to be seen by a doctor? How will I be able to
+afford the prescribed medication? When will I have extra time to wait around in a doctor's
+office?<br /> Does this sound like you?&nbsp;</p>
+      <p><a href="news_2015_09.php">See full article</a></p>
+      <p>&nbsp;</p>
+      <h2>Summer Block Party</h2>
+      <p>July 21, 2015</p>
+      <p>Valley Professionals Community Health Center (VPCHC) is celebrating one last opportunity of summer fun, before students head back to school, by hosting their 2015 Summer Block Party on Friday, July 31st at Sportland Park in Clinton, from 5:00 p.m. to 8:00 p.m. The block party is being held in honor of the 50th anniversary of National Health Center Week (NHCW). The event is open to the public.&nbsp;</p>
+      <p><a href="news_2015_08.php">See full article</a></p>
+      <p>&nbsp;</p>
       <h2>Nurse Practitioner job posting - Crawfordsville</h2>
       <p>March 12, 2015</p>
       <p>VPCHC is excited to announce that it is partnering with Dr. Hwang in Crawfordsville to provide care to his current patients, as well as provide expanded services to the Crawfordsville community.&nbsp; As such, VPCHC is looking for a nurse practitioner to join its outstanding and compassionate team in the Crawfordsville office.&nbsp;</p>
@@ -98,108 +111,108 @@
       <h2><br />
       Health Center Announces Name Change</h2>
       <p>February 17, 2014</p>
-      <p>Vermillion-Parke Community Health Center, Inc., has announced the organization is changing its name to Valley Professionals Community  Health Center (VPCHC).  The name change reflects the organization&rsquo;s growth and opportunities to serve the surrounding communities.</p>
+      <p>Valley Professionals Community Health Center, Inc., has announced the organization is changing its name to Valley Professionals Community  Health Center (VPCHC).  The name change reflects the organization&rsquo;s growth and opportunities to serve the surrounding communities.</p>
       <p><a href="news_2014_03.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>New Mascot is Face of Student Health Care</h2>
       <p>February 10, 2014</p>
-      <p>The Vermillion-Parke Community Health Center (VPCHC) recently welcomed new mascot, &ldquo;Patches the Penguin,&rdquo; to its staff. Patches will be a new face and symbol of student health care through the VPCHC Mobile School-Based Health Center, providing health care resources for students and families. </p>
+      <p>The Valley Professionals Community Health Center (VPCHC) recently welcomed new mascot, &ldquo;Patches the Penguin,&rdquo; to its staff. Patches will be a new face and symbol of student health care through the VPCHC Mobile School-Based Health Center, providing health care resources for students and families. </p>
       <p><a href="news_2014_02.php">See full article</a></p>
       <h2>&nbsp;</h2>
       <h2>VPCHC Physician Posting</h2>
       <p>January 13, 2014</p>
-      <p>Vermillion-Parke Community Health Center is currently looking for a physician to join its health center team and assist in meeting the needs of patients at VPCHC. </p>
+      <p>Valley Professionals Community Health Center is currently looking for a physician to join its health center team and assist in meeting the needs of patients at VPCHC. </p>
       <p><a href="news_2014_01.php">See full article</a></p>
       <h2>&nbsp;</h2>
       <h2>Health Center Recognizes Board Member Years of Service</h2>
       <p>December 19, 2013</p>
-      <p>Vermillion-Parke Community Health Center recently recognized board member Janie Pound, for her years of service and dedication to serving the community and mission of the health center. </p>
+      <p>Valley Professionals Community Health Center recently recognized board member Janie Pound, for her years of service and dedication to serving the community and mission of the health center. </p>
       <p><a href="news_2013_17.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>Inter-Professional Education Program for Local Medical Students</h2>
       <p>December 9, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) recently hosted a student pilot program in partnership with the Rural Health Innovation Collaborative (RHIC), at its Bloomingdale health center.  The program focused on the concept of inter-professional education, with a group of local medical students led by VPCHC Chief Medical Officer, Dr. Eric Beachy.</p>
+      <p>Valley Professionals Community Health Center (VPCHC) recently hosted a student pilot program in partnership with the Rural Health Innovation Collaborative (RHIC), at its Bloomingdale health center.  The program focused on the concept of inter-professional education, with a group of local medical students led by VPCHC Chief Medical Officer, Dr. Eric Beachy.</p>
       <p><a href="news_2013_16.php">See full article</a><br />
         <br />
       </p>
       <p></p>
       <h2>Psychologist Earns Program Recognition</h2>
       <p>December 9, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) Behavioral Health Director, Dr. Julia Wernz, was recently recognized for her completion of service to the National Health Service Corps program.</p>
+      <p>Valley Professionals Community Health Center (VPCHC) Behavioral Health Director, Dr. Julia Wernz, was recently recognized for her completion of service to the National Health Service Corps program.</p>
       <p><a href="news_2013_15.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>New Providers Join Health Center</h2>
       <p>November 18, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) welcomes Family Nurse Practitioner, Louwanna Wallace, and Licensed Clinical Social Worker, Tasha Lewis-Stevens, to the health center.</p>
+      <p>Valley Professionals Community Health Center (VPCHC) welcomes Family Nurse Practitioner, Louwanna Wallace, and Licensed Clinical Social Worker, Tasha Lewis-Stevens, to the health center.</p>
       <p><a href="news_2013_14.php">See full article</a><br />
     </p>
       <p>&nbsp;</p>
       <h2>New Medical and Behavioral Health Providers Join Health Center</h2>
       <p>October 28, 2013</p>
-      <p>The Vermillion-Parke Community Health Center (VPCHC) would like to welcome Family Practitioner, Aziz Abed, M.D., MPH, and behavioral health provider, Jan Warner, MAC, to its health center.</p>
+      <p>The Valley Professionals Community Health Center (VPCHC) would like to welcome Family Practitioner, Aziz Abed, M.D., MPH, and behavioral health provider, Jan Warner, MAC, to its health center.</p>
       <p><a href="news_2013_12.php">See full article</a><br />
         <br />
       </p>
       <p></p>
       <h2>Funding for Screening Mammograms Available at Health Center</h2>
       <p>October 22, 2013</p>
-      <p>Have you or someone you know, been diagnosed with breast cancer? Are you aware of the importance of early detection with breast cancer, which can increase a person&rsquo;s survival rate? Vermillion-Parke Community Health Center (VPCHC) has received funding through the Indiana Breast Cancer Awareness Trust to provide screening mammograms for women who are uninsured.</p>
+      <p>Have you or someone you know, been diagnosed with breast cancer? Are you aware of the importance of early detection with breast cancer, which can increase a person&rsquo;s survival rate? Valley Professionals Community Health Center (VPCHC) has received funding through the Indiana Breast Cancer Awareness Trust to provide screening mammograms for women who are uninsured.</p>
       <p><a href="news_2013_13.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>Local Community Health Workers Help with Insurance Enrollment</h2>
       <p>October 14, 2013</p>
-      <p>Vermillion-Parke Community Health Center is pleased to announce the addition of Community Health Workers (CHW) to its staff.  The role of a CHW involves linking health care services to the communities they serve. </p>
+      <p>Valley Professionals Community Health Center is pleased to announce the addition of Community Health Workers (CHW) to its staff.  The role of a CHW involves linking health care services to the communities they serve. </p>
       <p><a href="news_2013_11.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>Health Center Wins Specialty Awards at Annual Conference</h2>
       <p>October 14, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) was recently awarded a Special Exemplary Project Award for their Mobile School-Based Health Center, All Star Provider of the Year Award, and All Star Employee of the Year Award at the annual Indiana Primary Health Care Association Conference, recently held in Indianapolis. </p>
+      <p>Valley Professionals Community Health Center (VPCHC) was recently awarded a Special Exemplary Project Award for their Mobile School-Based Health Center, All Star Provider of the Year Award, and All Star Employee of the Year Award at the annual Indiana Primary Health Care Association Conference, recently held in Indianapolis. </p>
       <p><a href="news_2013_10.php">See full article</a></p>
       <p>&nbsp;      </p>
       <h2>Community Health Workers Join VPCHC to Assist with Insurance Enrollment </h2>
-      <p>Both the Affordable Care Act (ACA) and Insurance Marketplace are going into effect on October 1, 2013.  Vermillion-Parke Community Health Center (VPCHC) is pleased to announce the addition of Community Health Workers (CHW) to its staff, who are both federally and state certified, to assist individuals with insurance enrollment in the ACA or marketplace. </p>
+      <p>Both the Affordable Care Act (ACA) and Insurance Marketplace are going into effect on October 1, 2013.  Valley Professionals Community Health Center (VPCHC) is pleased to announce the addition of Community Health Workers (CHW) to its staff, who are both federally and state certified, to assist individuals with insurance enrollment in the ACA or marketplace. </p>
       <p><a href="news_2013_09.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>Health Center Earns Program Recognition</h2>
       <p>September 16, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) recently received recognition through the National Committee for Quality Assurance (NCQA) as a Patient Centered Medical Home with a Distinction in Patient Experience Reporting. </p>
+      <p>Valley Professionals Community Health Center (VPCHC) recently received recognition through the National Committee for Quality Assurance (NCQA) as a Patient Centered Medical Home with a Distinction in Patient Experience Reporting. </p>
       <p><a href="news_2013_08.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>Congressman to Visit Parke County Health Center</h2>
       <p>August 9, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) will celebrated National Health Center Week with a special visit from Congressman Buschon at the VPCHC Bloomingdale health center on Wednesday, August 14th. </p>
+      <p>Valley Professionals Community Health Center (VPCHC) will celebrated National Health Center Week with a special visit from Congressman Buschon at the VPCHC Bloomingdale health center on Wednesday, August 14th. </p>
       <p><a href="news_2013_07.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>Behavioral Health Services Expanding</h2>
       <p>June 3, 2013</p>
-      <p>The Vermillion-Parke Community Health Center (VPCHC) is expanding its behavioral health care services to provide more availability for patients at its health centers. </p>
+      <p>The Valley Professionals Community Health Center (VPCHC) is expanding its behavioral health care services to provide more availability for patients at its health centers. </p>
       <p><a href="news_2013_06.php">See full article</a><br />
         <br />
       </p>
       <h2>Mobile Health Center to Provide Community Access to Health Care</h2>
       <p>May 23, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) is partnering with Ivy Tech Community College to provide health care access through the VPCHC mobile health center, while on-site at Ivy Tech Community College&mdash;Wabash Valley&rsquo;s Parke County Learning Center (PCLC). </p>
+      <p>Valley Professionals Community Health Center (VPCHC) is partnering with Ivy Tech Community College to provide health care access through the VPCHC mobile health center, while on-site at Ivy Tech Community College&mdash;Wabash Valley&rsquo;s Parke County Learning Center (PCLC). </p>
       <p><a href="news_2013_05.php">See full article</a><br />
         <br />
       </p>
       <h2>Grand Opening Set for Bloomingdale Health Center</h2>
       <p>February 15, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) is hosting a Grand Opening celebration on Wednesday, February 27th, in honor of its new, recently opened health center located at 201 W. Academy St. in Bloomingdale, Ind. </p>
+      <p>Valley Professionals Community Health Center (VPCHC) is hosting a Grand Opening celebration on Wednesday, February 27th, in honor of its new, recently opened health center located at 201 W. Academy St. in Bloomingdale, Ind. </p>
       <p><a href="news_2013_04.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>Medical Officer Joins Health Center</h2>
       <p>January 10, 2013</p>
-      <p>The Vermillion-Parke Community Health Center would like to welcome its new Chief Medical Officer, Dr. Eric D. Beachy.</p>
+      <p>The Valley Professionals Community Health Center would like to welcome its new Chief Medical Officer, Dr. Eric D. Beachy.</p>
       <p><a href="news_2013_03.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>Funding for Screening Mammograms Available at Health Center</h2>
       <p>January 7, 2013</p>
-      <p>Have you or someone you know, been diagnosed with breast cancer? Are you aware of the importance of early detection with breast cancer, which can increase a person&rsquo;s survival rate? Vermillion-Parke Community Health Center (VPCHC) has received funding to provide screening mammograms for women who are uninsured, underinsured or have a high deductible. </p>
+      <p>Have you or someone you know, been diagnosed with breast cancer? Are you aware of the importance of early detection with breast cancer, which can increase a person&rsquo;s survival rate? Valley Professionals Community Health Center (VPCHC) has received funding to provide screening mammograms for women who are uninsured, underinsured or have a high deductible. </p>
       <p><a href="news_2013_02.php">See full article</a></p>
       <p>&nbsp;</p>
       <h2>Bloomingdale Health Center to Open</h2>
       <p>January 4, 2013</p>
-      <p>The Vermillion-Parke Community Health Center (VPCHC) is excited to announce the opening of its new Bloomingdale Community Health Center on January 7th, located at 201 W. Academy Street in Bloomingdale, Indiana.</p>
+      <p>The Valley Professionals Community Health Center (VPCHC) is excited to announce the opening of its new Bloomingdale Community Health Center on January 7th, located at 201 W. Academy Street in Bloomingdale, Indiana.</p>
       <p><a href="news_2013_01.php">See full article</a></p>
       <h2>&nbsp;</h2>
       <p><a href="../index.php">Back to home page </a></p>
@@ -218,6 +231,6 @@
   <!-- InstanceEndEditable --></div>
     <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 <!-- InstanceEnd --></html>

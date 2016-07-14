@@ -26,7 +26,7 @@
         </li>
       </ul>
       <h3>Experience</h3>
-      <p>As a Nurse Practitioner, Jennifer has had the opportunity to provide care and treatment for patients in a variety of clinical settings, including the Endocrinology Department at Providence Medical Group, Endocrinology, OB/GYN, Pulmonology Department at UAP Clinic, Emergency Department at Union Hospital, and Vermillion-Parke Community Health Center.<br />
+      <p>As a Nurse Practitioner, Jennifer has had the opportunity to provide care and treatment for patients in a variety of clinical settings, including the Endocrinology Department at Providence Medical Group, Endocrinology, OB/GYN, Pulmonology Department at UAP Clinic, Emergency Department at Union Hospital, and Valley Professionals Community Health Center.<br />
         &nbsp;</p>
       <h3>Professional Organizations</h3>
       <ul>

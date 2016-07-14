@@ -11,7 +11,7 @@
 <div id="maincontent">
       <h1>Congressman to Visit Mobile Health Center</h1>
       <p>August 15, 2012</p>
-      <p>The Vermillion-Parke Community Health Center is kicking off the new school year on August 15th by beginning services for students with the Mobile School-Based Health Center (MSBHC). </p>
+      <p>The Valley Professionals Community Health Center is kicking off the new school year on August 15th by beginning services for students with the Mobile School-Based Health Center (MSBHC). </p>
       <p>Congressman Larry Buschon will be on-hand to celebrate with Riverton Parke High School, as the first school visited by the MSBHC for the 2012-2013 school year. The MSBHC will travel all 14 schools in the five school corporations of Parke and Vermillion counties.  This includes the following school corporations: North Vermillion, South Vermillion, Southwest Parke, Rockville and Turkey Run. </p>
       <p>The mobile health center is a mobile medical clinic that will provide a full range of health care services so students can avoid health-related absences and get additional support to succeed in the classroom. The MSBHC will provide scheduled, on-site access during the academic day when school is in session.</p>
       <p>A Family Nurse Practitioner and nursing staff will be providing care to students, through the mobile health center. The mobile health center will provide services for acute problems, such as immunizations, school physicals, sore throat, fever, vomiting, flu symptoms, rash, cough, cold, earache and well-child visits. </p>
@@ -31,6 +31,6 @@
   </div>
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

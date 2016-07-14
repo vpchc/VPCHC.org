@@ -11,7 +11,7 @@
 <div id="maincontent">
       <h1>Mobile Health Center Celebrates Semester Success</h1>
       <p>December 21, 2012</p>
-      <p>The Vermillion-Parke Community Health Center (VPCHC) is celebrating its first months of success with the Mobile School-Based Health Center, after serving students at the 14 schools within Vermillion and Parke counties during the first half of the school year. </p>
+      <p>The Valley Professionals Community Health Center (VPCHC) is celebrating its first months of success with the Mobile School-Based Health Center, after serving students at the 14 schools within Vermillion and Parke counties during the first half of the school year. </p>
       <p>Beginning its services in August 2012, through the first school semester, the mobile health center has enrolled 689 students, provided care for 70 well-child checks, 139 acute visits, 52 sports physicals, 152 immunizations, and 62 school staff visits. </p>
       <p>&ldquo;Our first semester on the mobile health center has been a huge success. I have enjoyed working with all of the school corporations in Vermillion and Parke counties. The school administrators, students, staff, parents, and school nurses have been very receptive and have went above and beyond to make us feel welcome at their schools,&rdquo; stated Jennifer Inman, VPCHC Nurse Practitioner on the mobile health center.  &ldquo;I have especially enjoyed getting to know each and every student we have treated. We have been able to reach hundreds of students and staff and have improved access to health care for families. We look forward to another great semester and feel privileged to provide health care to this community.&rdquo;</p>
       <p>The mobile health center has achieved this success largely by teamwork and assistance from each school corporation&rsquo;s administrative team, teachers, secretaries, and their school or corporation nurses. </p>
@@ -27,6 +27,6 @@
   </div>
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

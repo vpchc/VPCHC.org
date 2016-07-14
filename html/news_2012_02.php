@@ -10,7 +10,7 @@
 <div id="maincontent">
       <h1>Health Center Receives New Access Point Grant</h1>
       <p>July 9, 2012</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) is one of three health centers in Indiana to recently be awarded a New Access Point grant by Health and Human Services (HHS) Secretary Kathleen Sebelius.  In June 2012, Seblius announced awards of new grants made possible by the health care law to expand community health centers. </p>
+      <p>Valley Professionals Community Health Center (VPCHC) is one of three health centers in Indiana to recently be awarded a New Access Point grant by Health and Human Services (HHS) Secretary Kathleen Sebelius.  In June 2012, Seblius announced awards of new grants made possible by the health care law to expand community health centers. </p>
       <p>The New Access Point funding is a $650,000 grant that VPCHC will receive annually, during the grant cycle. The grant will allow VPCHC to provide a health care facility in Bloomingdale, IN, and create at least five new jobs, while that number is expected to grow.   In Indiana, a total of $2,200,000 was awarded to the three health centers to help expand access to care for 9,600 additional patients.</p>
       <p>&ldquo;The health care law is making our community health centers stronger and ensuring more Americans get the care they need,&rdquo; said Secretary Sebelius. Community health centers work to improve the health of the nation by ensuring access to quality primary health care services. The awards announced in June total $128.6million and will go to community health centers in 41 States, the District of Columbia, Puerto Rico and the Northern Mariana Islands.</p>
       <p>As community-based and patient-directed organizations, health centers are well positioned to be responsive to the specific health care needs of their community. Through the Affordable Care Act&rsquo;s commitment to expand access to high quality health care for all Americans, these grants will support establishment of new full-time service delivery sites.</p>
@@ -32,6 +32,6 @@
   </div>
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

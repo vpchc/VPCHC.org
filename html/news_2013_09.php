@@ -10,7 +10,7 @@
   <div id="bodycontainer">
 <div id="maincontent">
       <h1>Community Health Workers Join VPCHC to Assist with Insurance Enrollment      </h1>
-      <p>Both the Affordable Care Act (ACA) and Insurance Marketplace are going into effect on October 1, 2013.  Vermillion-Parke Community Health Center (VPCHC) is pleased to announce the addition of Community Health Workers (CHW) to its staff, who are both federally and state certified, to assist individuals with insurance enrollment in the ACA or marketplace. </p>
+      <p>Both the Affordable Care Act (ACA) and Insurance Marketplace are going into effect on October 1, 2013.  Valley Professionals Community Health Center (VPCHC) is pleased to announce the addition of Community Health Workers (CHW) to its staff, who are both federally and state certified, to assist individuals with insurance enrollment in the ACA or marketplace. </p>
       <p>If you are uninsured or believe you may qualify for Medicaid, open enrollment for the Insurance Marketplace will take place from October 1, 2013 through March 31, 2014. To receive insurance by January 1, 2014, an application must be filled out no later than December 15, 2013. A single online application will inform you of eligibility in Medicaid or for one of the insurance healthcare plans offered through the Marketplace. For any questions regarding the Insurance Marketplace or assistance in filling out an application, feel free to contact the VPCHC Clinton office at (765) 828-1003.</p>
       <p>The role of the CHWs will consist of linking the healthcare field to the community they serve. The responsibilities of our CHWs will include:</p>
       <blockquote>
@@ -28,7 +28,7 @@
           Becky Shepard &#8212; <a href="mailto:rshepard@vpchc.org">rshepard@vpchc.org</a></p>
       </blockquote>
       <p>&nbsp;</p>
-      <p><a href="news_index.html">See all news articles </a></p>
+      <p><a href="news_index.php">See all news articles </a></p>
       <p>&nbsp;</p>
     </div>
   <div id="rightsidebar">
@@ -37,5 +37,5 @@
   </div>
    <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script></body>
+<script src="/scripts/navigation.js"></script></body>
 </html>

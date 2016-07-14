@@ -14,7 +14,7 @@ h2 {
 }
 h3 {
 	font-family: Arial, Helvetica, sans-serif;
-	fon-weight: bold;
+	font-weight: bold;
 	color: #333333;
 	font-size: 14px;
 }
@@ -70,6 +70,106 @@ a:active {
 	width: 940px;
 	margin-right: auto;
 	margin-left: auto;
+}
+#bus{
+	text-align: right;
+	position: absolute;
+	top: 43px;
+	right: 250px;
+	width: 300px;
+	height: 85px;
+}
+#bustitle{
+	text-align: right;
+	position: absolute;
+	font-size: 13px;
+	text-decoration: underline;
+	top: 0px;
+	right: 140px;
+	height: 15px;
+}
+#buscontactinfo{
+	text-align: right;
+	position: absolute;
+	font-weight:bold;
+	top:32px;
+	right:50px;
+	width:230px;
+}
+#busstats{
+	text-align: right;
+	position: absolute;
+	top: 15px;
+	right: 125px;
+	height: 50px;
+	width: 220px
+}
+#buslocation{
+	text-align: right;
+	font-size: 13px;
+	position: absolute;
+	top: 0px;
+	right: 145px;
+	height: 15px;
+}
+#buspic{
+	float:right;
+	padding-top: 15px;
+	padding-right:24px;
+}
+#locationtext{
+	text-align: center;
+	font-size: 13px;
+	position: absolute;
+	top: 0px;
+	right: 21px;
+	height: 15px;
+	width:100px;
+}
+#bustimes{
+	text-align: right;
+	font-size: 13px;
+	position: absolute;
+	top: 15px;
+	right: 145px;
+	height: 15px;
+}
+#timestext{
+	text-align: center;
+	font-size: 13px;
+	position: absolute;
+	top: 15px;
+	right: 2px;
+	height: 15px;
+	width:137px;
+}
+#busstatus{
+	text-align: right;
+	font-size: 13px;
+	position: absolute;
+	top: 30px;
+	right: 145px;
+	height: 15px;
+}
+#statustext{
+	text-align: center;
+	font-size: 13px;
+	position: absolute;
+	top: 30px;
+	right: 31px;
+	height: 15px;
+	width: 80px;
+}
+.circlebase {
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+	margin-left:35px;
+	margin-top:58px;
+}
+.type1 {
+    background: blue;
+    border: 3px solid black;
 }
 #footerbox {
 	margin-right: auto;
@@ -204,10 +304,10 @@ a:active {
 #navlinks {
 	text-align: right;
 	position: absolute;
-	top: 116px;
-	right: 15px;
+	top: 125px;
+	right: 10px;
 	color: #3a2d02;
-	width: 588px;
+	width: 618px;
 }
 #navlinks a:link {
 	font-family: Georgia, "Times New Roman", Times, serif;
@@ -287,11 +387,46 @@ a:active {
   color: #70B244;
   border: 2px solid #70B244;
 }
+#schedulebuttonalign{
+	position: absolute;
+	top: 13px;
+	right: 30px;
+	height: 35px;
+	width: 100px;
+}
+#schedulebutton{
+  font-size: 12px;
+  font-family:'Helvetica Neue',Arial,sans-serif;
+  font-weight: 700;
+  
+  color: #2d4a70;
+ 
+  border-radius: 10px;
+
+  background: #ffffff;
+  border: 2px solid #70B244;
+
+  box-shadow: 5px 1px 5px #888888;
+}
+#schedulebutton:hover {  
+  background: #70B244;
+  transition: 0.5s;
+  border: 2px solid #70B244;
+}
+#schedulebutton:active {
+  transition: none;
+  background: #2d4a70;
+  color: #70B244;
+  border: 2px solid #70B244;
+}
 #rightsidebar {
 	position: absolute;
 	width: 300px;
 	left: 640px;
 	top: 50px;
+}
+#tabbedcontainer {
+	padding-left: 10px;
 }
 .newsboxed {
 	margin-top: 0px;
@@ -302,6 +437,7 @@ a:active {
 	margin-right: 18px;
 	margin-left: 18px;
 }
+
 #homenote {
 	clear: both;
 	padding-top: 15px;

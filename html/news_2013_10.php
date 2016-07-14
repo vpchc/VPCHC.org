@@ -10,7 +10,7 @@
 <div id="maincontent">
       <h1>Health Center Wins Specialty Awards at Annual Conference </h1>
       <p>October 14, 2013</p>
-      <p>Vermillion-Parke Community Health Center (VPCHC) was recently awarded a Special Exemplary Project Award for their Mobile School-Based Health Center, All Star Provider of the Year Award, and All Star Employee of the Year Award at the annual Indiana Primary Health Care Association Conference, recently held in Indianapolis. </p>
+      <p>Valley Professionals Community Health Center (VPCHC) was recently awarded a Special Exemplary Project Award for their Mobile School-Based Health Center, All Star Provider of the Year Award, and All Star Employee of the Year Award at the annual Indiana Primary Health Care Association Conference, recently held in Indianapolis. </p>
       <p>VPCHC received the Special Exemplary Project Award based on demonstrated excellence through advocacy, innovative programs, services, or systems that have increased access to care or improved health care services to the community, and collaborative efforts to reach high-risk populations in the community. These actions have been fulfilled through services and care provided by its Mobile School-Based Health Center.</p>
       <p>Dr. Julia Wernz, Ph.D., HSPP, received the All Star Provider of the Year award, being recognized as an outstanding provider who has demonstrated excellence in clinical leadership through advocacy, innovative programs and services, as well as collaborative efforts to reach high-risk populations in the community. Dr. Wernz oversees VPCHC&rsquo;s behavioral health department, which includes providing supervision to two behavioral health providers, resource coordinator, three community health workers and countless behavioral health students on rotation at VPCHC. Dr. Wernz also has a full caseload as a psychologist.  Since joining VPCHC in 2008, Dr. Wernz has built a behavioral health program that sees over 750 patients and over 3,600 patient visits per year. Dr. Wernz is the first behavioral health provider to receive this award.</p>
       <p>The All Star Employee of the Year award was awarded to Community Relations &amp; Marketing Manager Amy Reed, for being recognized as a primary health care employee (non-practitioner) who has demonstrated excellence through patient advocacy, innovative programs, services, or systems and collaborative efforts. In her role, Reed works to educate the community about VPCHC and its services. When Reed joined VPCHC in 2009, the health center did not have any kind of marketing or community relations department. As such, she has worked to create her own department and develop a role that has become vital to VPCHC.  Reed&rsquo;s efforts have allowed VPCHC to reach more patients to educate them on the resources VPCHC can provide. </p>
@@ -33,6 +33,6 @@
   </div>
    <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>

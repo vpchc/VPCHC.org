@@ -11,7 +11,7 @@
 <div id="maincontent">
       <h1>Family Nurse Practitioners Join Local Health Center</h1>
       <p>July 16, 2012</p>
-      <p>The Vermillion-Parke Community Health Center would like to welcome Family Nurse Practitioners, Nicole Hall, FNP-C, and Jennifer Inman, FNP-C.</p>
+      <p>The Valley Professionals Community Health Center would like to welcome Family Nurse Practitioners, Nicole Hall, FNP-C, and Jennifer Inman, FNP-C.</p>
       <p>Nicole Hall is a 2011 graduate of Indiana State University Family Nurse Practitioner Program.  In 2007, she completed her Undergraduate studies in Nursing at Indiana State University in Terre Haute.</p>
       <p>Prior to becoming a Family Nurse Practitioner, Nicole worked at the Wound Center at Union Hospital Terre Haute, St. Vincent Clay Hospital Emergency Department, and Harsha Behavioral Center. She currently<br />
         teaches in the Baccalaureate Program at Indiana State University and serves in the Indiana Air National Guard at Hulman Air Field. </p>
@@ -32,6 +32,6 @@
   </div>
   <?php include("../includes/footer.php"); ?>
 </div>
-<script src="/scripts/buttonChange.js"></script>
+<script src="/scripts/navigation.js"></script>
 </body>
 </html>
