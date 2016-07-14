@@ -15,23 +15,43 @@
     <p><strong>New Patient Packet</strong> <br />
     Necessary documents for new patients:</p>
     <ul>
-       <li>Bloomingdale, Cayuga, Clinton</li><br />
-      <a href="../files/form_new_patient_packet_adult_bloomcayclint.pdf">- Adults</a><br />
+       <li>Bloomingdale</li><br />
+      <a href="../files/form_new_patient_adult_bloomingdale.pdf">- Adults</a><br />
         <br />
       
-      <a href="../files/form_new_patient_packet_child_bloomcayclint.pdf"><b>-</b> Children</a><br /><br />
+      <a href="../files/form_new_patient_child_bloomingdale.pdf">- Children</a><br /><br />
+        
+        <li>Cayuga</li><br />
+      <a href="../files/form_new_patient_adult_cayuga.pdf">- Adults</a><br />
+        <br />
+      
+      <a href="../files/form_new_patient_child_cayuga.pdf">- Children</a><br /><br />
+        
+        <li>Clinton</li><br />
+      <a href="../files/form_new_patient_adult_clinton.pdf">- Adults</a><br />
+        <br />
+      
+      <a href="../files/form_new_patient_child_clinton.pdf">- Children</a><br /><br />
       
 	  <li>Crawfordsville</li><br />
-      <a href="../files/form_new_patient_packet_adult_crawfordsville.pdf">- Adults</a><br />
+      <a href="../files/form_new_patient_adult_crawfordsville.pdf">- Adults</a><br />
         <br />
       
-      <a href="../files/form_new_patient_packet_child_crawfordsville.pdf"><b>-</b> Children</a><br /><br />
+      <a href="../files/form_new_patient_child_crawfordsville.pdf">- Children</a><br /><br />
 	  <li>Terre Haute</li><br />
-      <a href="../files/form_new_patient_packet_adult_terrehaute.pdf">- Adults</a><br />
+      <a href="../files/form_new_patient_adult_terre_haute.pdf">- Adults</a><br />
         <br />
       
-      <a href="../files/form_new_patient_packet_child_terrehaute.pdf"><b>-</b> Children</a><br />
+      <a href="../files/form_new_patient_child_terre_haute.pdf">- Children</a><br />
 
+    </ul>
+    <p><strong>Release of Information</strong> <br />
+    <ul>
+        <li><a href="../files/Records_Release_Bloomingdale.pdf">Bloomingdale</a><br /><br /></li>
+        <li><a href="../files/Records_Release_Cayuga.pdf">Cayuga</a><br /><br /></li>
+        <li><a href="../files/Records_Release_Clinton.pdf">Clinton</a><br /><br /></li>
+        <li><a href="../files/Records_Release_Crawfordsville.pdf">Crawfordsville</a><br /><br /></li>
+        <li><a href="../files/Records_Release_Terre_Haute.pdf">Terre Haute</a><br /><br /></li>
     </ul>
     <p><a href="../files/form_acknowledgement_receipt.pdf"><strong>Acknowledgement Receipt for Patient Bill of Rights/Privacy Practices</strong></a></p>
     <p><strong><a href="../files/form_behavioral_health_release.pdf">Behavioral Health Release of Information</a></strong><br />

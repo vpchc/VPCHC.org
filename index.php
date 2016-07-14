@@ -12,7 +12,7 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <div id="homepageintrocontainer">
-      <h1>Welcome to Valley Professionals Community Health Center!</h1>
+      <h1>Welcome to Valley Professionals Community Health Center</h1>
       <h3>Serving Montgomery, Parke, Vermillion, and Vigo counties and the surrounding areas in Indiana.</h3>
       <p>Valley Professionals Community Health Center (VPCHC) is the place to find hometown quality care!  Our medical providers look forward to serving you and providing the best care possible.  The health center is committed to continuous focus on patient care and maximizing the capabilities of patient services and programs.  VPCHC looks forward to serving you!</p>
       <p>&ldquo;I met with you in the Clinton office in February.&nbsp; At that time, I explained all the frustration and problems I&rsquo;ve had trying to obtain affordable health care.&nbsp; Prior to our meeting, I had applied for HIP through the state of Indiana. I am so happy to let you know that I finally received a letter that I have been approved for the Health Indiana Plan! I&rsquo;m so happy that I finally will have some insurance for at least the next 12 months! Thanks again for the time you took talking to me and trying to get through the Insurance Marketplace.&rdquo;</p>
@@ -23,6 +23,13 @@
     <div id="homenewscontainer">
       <img src="images/home_news_header.jpg" alt="News" width="303" height="60" />
     <div id="news_cms_area" class="cms-editable">
+        <h3 class="newsboxed">Valley Professionals wishes you a happy and safe Memorial Day weekend!</h3>
+<p class="newsboxed">May 30, 2016</p>
+<p class="newsboxed">All Valley Professionals offices will be CLOSED on Monday, May 30th in observance of Memorial Day.
+Offices will resume normal business hours on Tuesday, May 31st.
+</p>
+<p class="newsboxed">&nbsp;</p>
+<h3 class="newsboxed">&nbsp;</h3>
 <h3 class="newsboxed">Terre Haute Tribune Star - Community Progess Update</h3>
 <p class="newsboxed">August, 2015</p>
 <p class="newsboxed">What questions come to mind when searching for a healthcare provider? Will I receive quality
@@ -38,20 +45,11 @@ office?<br /> Does this sound like you?</p>
 <p class="newsboxed"><a href="http://vpchc.org/html/news_2015_08.php">See full article</a></p>
 <p class="newsboxed">&nbsp;</p>
 <h3 class="newsboxed">&nbsp;</h3>
-<h3 class="newsboxed">Nurse Practitioner job posting - Crawfordsville</h3>
-<p class="newsboxed">March 12, 2015</p>
-<p class="newsboxed">VPCHC is excited to announce that it is partnering with Dr. Hwang in Crawfordsville to provide care to his current patients, as well as provide expanded services to the Crawfordsville community.&nbsp; As such, VPCHC is looking for a nurse practitioner to join its outstanding and compassionate team in the Crawfordsville office.</p>
-<p class="newsboxed"><a href="http://vpchc.org/html/news_2015_07.php">See full article</a></p>
-<p class="newsboxed">&nbsp;</p>
-<p class="newsboxed"><a href="http://vpchc.org/html/news_index.php"><strong>See all news articles</strong></a></p>
 </div>
       <img src="images/home_news_footer.jpg" width="303" height="10" /></div>
 	  <div id="homeeventscontainer">
       <img src="images/home_events_header.jpg" alt="Events" width="303" height="60" />
       <div id="events_cms_area" class="cms-editable">
-
-
-
 <h3 class="newsboxed"><strong>Meet with a Community Health Worker at any VPCHC site!</strong></h3>
 <p class="newsboxed">A Community Health Worker (CHW) helps link health care services to the communities and individuals they serve, and also provide additonal resources.&nbsp;<br /><br />The role of a CHW includes:</p>
 <ul>
@@ -63,7 +61,7 @@ office?<br /> Does this sound like you?</p>
 <li>Strengthen patient&rsquo;s self-efficacy</li>
 </ul>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anyone is welcome to contact&nbsp;a Community Health <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Worker&nbsp;directly, for questions or more information, <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at&nbsp;(765) 828-1003.</p>
-<p class="newsboxed"><a href="http://vpchc.org/html/events_index.php"><strong>See full list of events</strong></a></p>
+
 </div>
 
       <img src="images/home_news_footer.jpg" width="303" height="10" /></div>
@@ -105,5 +103,11 @@ office?<br /> Does this sound like you?</p>
   <?php include("includes/footer.php"); ?>
  </div>
 <script src="/scripts/navigation.js"></script>
+<script type="text/javascript">
+  var temp = document.cookie;
+  if (screen.width <= 800 && temp!="y") {
+    window.location = "http://m.vpchc.org";
+  }
+</script>
 </body>
 </html>

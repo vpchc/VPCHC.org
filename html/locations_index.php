@@ -19,7 +19,7 @@
           Bloomingdale, IN 47832</p>
             <p><b>Phone:</b> (765) 498-9000<br />
             <b>Fax:</b> 765-498-9004</p>
-          <p><strong>Office Hours<br />
+          <p><strong>Office Hours:<br />
             </strong>8:00 a.m. to 5:00 p.m. Monday &ndash; Friday</p>
           <p>&nbsp;</p></td>
         <td><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=201+W.+Academy+St.+Bloomingdale,+IN+47832&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=65.772864,114.345703&amp;hq=&amp;t=m&amp;ie=UTF8&amp;hnear=201+W+Academy+St,+Bloomingdale,+Parke,+Indiana+47832&amp;ll=39.8411,-87.252302&amp;spn=0.023066,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?q=201+W.+Academy+St.+Bloomingdale,+IN+47832&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=65.772864,114.345703&amp;hq=&amp;t=m&amp;ie=UTF8&amp;hnear=201+W+Academy+St,+Bloomingdale,+Parke,+Indiana+47832&amp;ll=39.8411,-87.252302&amp;spn=0.023066,0.036478&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small></td>
@@ -39,14 +39,14 @@
       </tr>
     </table>
     <p>&nbsp;</p>
-    <h3><u>Clinton</u></h3>
+    <h3><u>Clinton - Main Office</u></h3>
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tr>
         <td width="300" valign="top"><p><b>Address:</b><br />777 S. Main Street, Suite 100<br />
           Clinton, IN 47842</p>
           <p><b>Phone:</b> (765) 828-1003<br />
             <b>Fax:</b> (765) 828-1030</p>
-          <p><strong>Office Hours<br />
+          <p><strong>Office Hours:<br />
           </strong>8:00 a.m. to 5:00 p.m. Monday &ndash; Friday</p>
           <p><strong>After-Hours Clinic: </strong><br />
         5:00 p.m. to 8:00 p.m.	 Monday &ndash; Thursday</p></td>
@@ -62,7 +62,7 @@
           Crawfordsville, IN 47933</p>
           <p><b>Phone:</b> (765) 362-5100<br />
             <b>Fax:</b> (765) 362-5171</p>
-          <p><strong>Office Hours<br />
+          <p><strong>Office Hours:<br />
           </strong>8:00 a.m. to 5:00 p.m. Monday &ndash; Friday</p>
         </td>
         <td>
@@ -74,12 +74,14 @@ https://www.google.com/maps/embed/v1/place?q=1810+Lafayette+Ave,+Crawfordsville,
      <h3><u>Terre Haute</u></h3>
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tr>
-        <td width="300" valign="top"><p><b>Address:</b><br />1530 North 7th Site, Suite 201<br />
+        <td width="300" valign="top"><p><b>Address:</b><br />1530 North 7th Street, Suite 201<br />
          Terre Haute, IN 47807</p>
           <p><b>Phone:</b> (812) 238-7631<br />
-            <b>Fax:</b> (765) 238-7003</p>
-          <p><strong>Office Hours<br />
-          </strong>8:00 a.m. to 5:00 p.m. Monday &ndash; Friday</p>
+            <b>Fax:</b> (812) 238-7003</p>
+          <p><strong>Office Hours:<br />
+          </strong>8:00 a.m. to 5:00 p.m. Monday &ndash; Wednesday<br/>
+          8:30 a.m. to 5:00 p.m. Thursday<br/>
+          8:00 a.m. to 4:30 p.m. Friday</p>
         </td>
         <td>
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="

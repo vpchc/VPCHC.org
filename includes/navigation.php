@@ -6,20 +6,22 @@
  <div id="bus">
     <p id="bustitle"><b>Where is the Bus?</b></p>
     <div id="schedulebuttonalign">
-      <form method="get" action="/files/MSBHC August - December 2015.pdf">
+      <form method="get" action="/files/MSBHC_2016_Jun_Jul.pdf">
         <button type="submit" id="schedulebutton">Bus schedule</button>
       </form>
     </div>
     <p id="buspic">
-     <img src="/images/MSBHCanimation.png" alt="Bus" width="110" height="55" />
+     <img src="/images/MSBHCanimation.png" alt="Bus" width="110" height="55" usemap="#busMap" />
+     <map name="busMap" id="busMap"><area shape="rect" coords="10,10,102,48" href="/html/services_mobile.php" />
+	 </map>
     </p>
     <div id="busstats">
       <p id="buslocation"><b>Location:</b></p>
-      <p id="locationtext">none</p>
+      <p id="locationtext"> </p>
       <p id="bustimes"><b>Times:</b></p>
-      <p id="timestext">none</p>
+      <p id="timestext"> </p>
       <p id="busstatus"><b>Status:</b></p>
-      <p id="statustext">none</p>
+      <p id="statustext">Check Schedule</p>
     </div>
     <div class="circlebase type1"></div>
  </div>
@@ -29,6 +31,7 @@
      <button id="patbutton" onclick="btnUrlChg()">Click here</button>
    </p>
    <p id="buscontactinfo">*Please call first for a bus appointment.</p>
+   <p id="buscontactinfo2">*Click on the Bus to get more info.</p>
   </div>
 </div>	
 

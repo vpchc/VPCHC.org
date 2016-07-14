@@ -9,8 +9,8 @@
   <?php include("../includes/navigation.php"); ?>
   <div id="bodycontainer">
 <div id="maincontent">
-      <h1>About us </h1>
-      <h3>Mission statement </h3>
+  <h1>We are awesome...enough said </h1>
+  <h3>Mission statement </h3>
       <p>&ldquo;Valley Professionals Community Health Center provides comprehensive integrated healthcare for all individuals while promoting educational opportunities.&rdquo;</p>
       <p><br />
       </p>

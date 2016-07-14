@@ -306,3 +306,7 @@ a:active {
 	clear: both;
 	padding-top: 15px;
 }
+li
+{
+    list-style-type: none;
+}
