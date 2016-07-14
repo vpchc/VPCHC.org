@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Valley Professionals Community Health Center</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body {
+	background-color: #fef5d2;
+	background-image: url(../images/bkgd_1.jpg);
+	background-repeat: repeat;
+}
+-->
+</style>
+<link href="../css/vpchc_styles.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="masterbox">
+  <div id="mastheadbox">
+    <p><img src="../images/mastheadflat.gif" alt="Vermillion-Parke Community Health Center" width="960" height="149" border="0" align="top" usemap="#Map" />
+<map name="Map" id="Map"><area shape="rect" coords="12,60,331,129" href="../index.html" />
+</map></p>
+    <div id="navlinks"><a href="../index.html">Home</a> &nbsp;&nbsp;<a href="../html/about_us_index.html">About us</a> &nbsp;&nbsp;<a href="../html/news_index.html">News</a> &nbsp;&nbsp;<a href="../html/locations_index.html">Locations</a> &nbsp;&nbsp;<a href="../html/team_index.html">Our team </a> &nbsp;&nbsp;<a href="../html/services_index.html">Services</a> &nbsp;&nbsp;<a href="../html/programs_index.html">Programs</a> &nbsp;&nbsp;<a href="../html/forms_index.html">Forms</a> &nbsp;&nbsp;<a href="../html/contact_us.html">Contact us</a></div>
+  </div>
+  
+  <!-- TemplateBeginEditable name="shellbody" -->
+  <div id="bodycontainer">
+    <h1>H1 -- Level 1 Headline - Georgia ital 24 px</h1>
+    <h2>H2 -- Level 2 headline - Georgia italic 18 px 3a2d02</h2>
+    <h3>H3 -- Level 3 Subhead - arial bold 14px 333333</h3>
+    <h4>H4 -- Level 4 Subhead - arial bold 12px 333333</h4>
+    <p>P -- Normal text - arial 12px 333333</p>
+    <h6>H6 -- Legal text - arial 10 px 333333</h6>
+    <p>Bold link text - arial 12 bold 003399</p>
+    <p><a href="#">Normal link text - arial 12 003399</a></p>
+    <p>Content for  id "bodycontainer" Goes Here</p>
+    <p>YES lots of content</p>
+    <h1>new h1 goes here </h1>
+    <h2>new h2 goes here </h2>
+    <p>3</p>
+    <p>4</p>
+    <p>5</p>
+    <p>6</p>
+    <p>7</p>
+    <p>8</p>
+    <p>9</p>
+    <p>10</p>
+    <p>11</p>
+    <p>12</p>
+    <p>13</p>
+    <p>14</p>
+    <p>15</p>
+    <p>16</p>
+    <p>17</p>
+    <p>18</p>
+    <p>19</p>
+    <p>20</p>
+    <p>21</p>
+    <p>22</p>
+    <p>23</p>
+    <p>24</p>
+    <p>25</p>
+    <p>26</p>
+    <p>&nbsp;</p>
+  </div>
+  <!-- TemplateEndEditable -->
+  <div id="footerbox">
+    <div id="facebook"><a href="http://www.facebook.com/VPCHC"><img src="../images/facebook_24x23.gif" alt="Follow us on Facebook" width="24" height="23" border="0" /></a></div>
+	<div id="facebooktext"><a href="http://www.facebook.com/VPCHC">Follow us on Facebook!</a></div>
+	<div id="copyrighttext">&copy; 2014 Valley Professionals Community Health Center</div>
+	<div id="subfooter">This health center is a Health Center Program grantee under 42 U.S.C. 245b, and a deemed Public Health Service employee under 42 U.S.C. 233(g)-(n).</div>
+  </div>
+</div>
+
+
+</body>
+</html>

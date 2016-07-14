@@ -1,0 +1,454 @@
+DumMustBeFirst {
+	FONT-WEIGHT: bolder;
+}
+BODY
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    COLOR: black;
+    BACKGROUND-COLOR: #DFEFFF;
+    margin: 0px 0px 0px 0px;
+}
+H1,H2,H3,H4
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    COLOR: #000066;
+}
+H2
+{
+    FONT-SIZE: 10pt;
+}
+H3
+{
+    font-size: 9pt;
+}
+H4
+{
+    FONT-SIZE: 9pt;
+}
+.H1N
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 11pt;
+    FONT-WEIGHT: bold;
+    COLOR: #000066;
+}
+.H1S
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    COLOR: #000066;
+}
+LI
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    COLOR: black;
+}
+P
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    COLOR: black;
+	line-height:12pt;
+}
+TD
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    COLOR: black;
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+B
+{
+    FONT-WEIGHT: bold;
+    COLOR: #000066;
+}
+/*======================================================================
+	
+	ParaHeader	 --	Paragraph Header 
+	Normal		 --	is how a normal text will appear
+	NormalHiLi	 -- Normal with highlighted color (e.g. red)
+	Label		 --	= Normal (bold and theme color) 
+	LabelC		 --	= Normal (bold and different theme color) 
+	WarningTitle --	Title for important feedback to user	
+	Warning		 --	Important feedback to user
+	NoticeTitle	 --	Title for feedback to user
+	Notice		 --	Feedback to user
+	TableTop	 --	is reverse, bold text for TD headers 
+	Info		 --	is same as normal with a highlighted background 
+	InfoMono	 --	Same as Info w/Mono spacing text
+
+=======================================================================*/
+.ParaHeader
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+	font-weight:bold;
+    COLOR: #000066;
+}
+
+.Normal,.Normal_VL,.Normal_L,.Normal_S,.Normal_VS
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    COLOR: black;
+}
+.Normal_VL {FONT-SIZE: 11pt;}
+.Normal_L  {FONT-SIZE: 10pt;}
+.Normal_S  {FONT-SIZE: 8pt;}
+.Normal_VS {FONT-SIZE: 7pt;COLOR: #000066;}
+
+/*	NormalHiLi -- same as Normal in a highlighted color (e.g. red) */
+.NormalC,.NormalC_VL,.NormalC_L,.NormalC_S,.NormalC_VS
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: normal;
+    COLOR: #CC2244;
+}
+.NormalC_VL {FONT-SIZE: 11pt;}
+.NormalC_L  {FONT-SIZE: 10pt;}
+.NormalC_S  {FONT-SIZE: 8pt;}
+.NormalC_VS {FONT-SIZE: 7pt;}
+
+/*	Label */
+
+.Label,.Label_VL,.Label_L,.Label_S,.Label_VS
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    COLOR: #000066;
+}
+.Label_VL {FONT-SIZE: 11pt;}
+.Label_L  {FONT-SIZE: 10pt;}
+.Label_S  {FONT-SIZE: 8pt;}
+.Label_VS {FONT-SIZE: 7pt;}	
+
+/*	LabelC */
+.LabelC,.LabelC_VL,.LabelC_L,.LabelC_S,.LabelC_VS
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    COLOR: #CC2244;
+}
+.LabelC_VL {FONT-SIZE: 11pt;}
+.LabelC_L  {FONT-SIZE: 10pt;}
+.LabelC_S  {FONT-SIZE: 8pt;}
+.LabelC_VS {FONT-SIZE: 7pt;}	
+
+/*	WarningTitle -- Used for feedback to user */
+.WarningTitle,.WarningTitle_VL,.WarningTitle_L,.WarningTitle_S,.WarningTitle_VS
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9pt;
+    COLOR: #CC2244;
+    FONT-FAMILY: arial, helvetica, sans-serif
+}
+.WarningTitle_VL {FONT-SIZE: 11pt;}
+.WarningTitle_L  {FONT-SIZE: 10pt;}
+.WarningTitle_S  {FONT-SIZE: 8pt;}
+.WarningTitle_VS {FONT-SIZE: 7pt;}
+
+/*	Warning -- Used for feedback to user */
+.Warning,.Warning_VL,.Warning_L,.Warning_S,.Warning_VS
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 9pt;
+    COLOR: #000066;
+    FONT-FAMILY: arial, helvetica, sans-serif
+}
+.Warning_VL {FONT-SIZE: 11pt;}
+.Warning_L  {FONT-SIZE: 10pt;}
+.Warning_S  {FONT-SIZE: 8pt;}
+.Warning_VS {FONT-SIZE: 7pt;}
+
+/*	NoticeTitle -- Used for feedback to user */
+.NoticeTitle,.NoticeTitle_VL,.NoticeTitle_L,.NoticeTitle_S,.NoticeTitle_VS
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9pt;
+    COLOR: #000066;
+    FONT-FAMILY: arial, helvetica, sans-serif
+}
+.NoticeTitle_VL {FONT-SIZE: 11pt;}
+.NoticeTitle_L  {FONT-SIZE: 10pt;}
+.NoticeTitle_S  {FONT-SIZE: 8pt;}
+.NoticeTitle_VS {FONT-SIZE: 7pt;}
+
+/*	Notice -- Used for feedback to user */
+.Notice,.Notice_VL,.Notice_L,.Notice_S,.Notice_VS
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    COLOR: #000066;
+    FONT-FAMILY: arial, helvetica, sans-serif
+}
+.Notice_VL {FONT-SIZE: 11pt;}
+.Notice_L  {FONT-SIZE: 10pt;}
+.Notice_S  {FONT-SIZE: 8pt;}
+.Notice_VS {FONT-SIZE: 7pt;}
+
+/* Mono */
+.Mono,.Mono_VL,.Mono_L,.Mono_S,.Mono_VS
+{
+    FONT-FAMILY: courier, Courier New, System;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: normal;
+    COLOR: black;
+}
+.Mono_VL {FONT-SIZE: 11pt;}
+.Mono_L  {FONT-SIZE: 10pt;}
+.Mono_S  {FONT-SIZE: 8pt;}
+.Mono_VS {FONT-SIZE: 7pt;}
+
+/* Info */
+.Info,.Info_VL,.Info_L,.Info_S,.Info_VS
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: normal;
+    COLOR: black;
+    background-color:#ffffdd;
+}
+.Info_VL {FONT-SIZE: 11pt;}
+.Info_L  {FONT-SIZE: 10pt;}
+.Info_S  {FONT-SIZE: 8pt;}
+.Info_VS {FONT-SIZE: 7pt;}
+
+/* InfoMono */
+.InfoMono,.InfoMono_VL,.InfoMono_L,.InfoMono_S,.InfoMono_VS
+{
+    FONT-FAMILY: courier, Courier New, System;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: normal;
+    COLOR: black;
+    background-color:#ffffcc;
+}
+.InfoMono_VL {FONT-SIZE: 11pt;}
+.InfoMono_L  {FONT-SIZE: 10pt;}
+.InfoMono_S  {FONT-SIZE: 8pt;}
+.InfoMono_VS {FONT-SIZE: 7pt;}
+
+/*	TDTitle -- is the reverse text in TD's */
+.TDTitle,.TDTitle_VL,.TDTitle_L,.TDTitle_S,.TDTitle_VS
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: bold;
+    COLOR: white;
+    background-color: #000066;
+}
+.TDTitle_VL {FONT-SIZE: 11pt;}
+.TDTitle_L  {FONT-SIZE: 10pt;}
+.TDTitle_S  {FONT-SIZE: 8pt;}
+.TDTitle_VS {FONT-SIZE: 7pt;}
+
+A.TDTitleLink:link,A.TDTitleLink:visited,A.TDTitleLink:active,A.TDTitleLink:hover
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    COLOR: white;
+    background-color: green;
+    text-decoration: 'underline';
+    text-align: center; 
+}
+
+.FormLabel
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    COLOR: #000066;
+    padding-left: 8px;
+}
+
+.TableTop
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: white;
+    FONT-FAMILY: Arial, Helvetica, Sans_serif;
+    BACKGROUND-COLOR: #000066;
+}
+.TableTop8
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: white;
+    FONT-FAMILY: Arial, Helvetica, Sans_serif;
+    BACKGROUND-COLOR: #000066;
+}
+.TableTop8R
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: white;
+    FONT-FAMILY: Arial, Helvetica, Sans_serif;
+    BACKGROUND-COLOR: purple;
+    text-align:right;
+    padding-right: 8px;
+}
+.SmallTitle
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+    FONT-SIZE: 7pt;
+    FONT-WEIGHT: bold;
+    COLOR: #000066;
+}
+
+/* A */
+A:link,A:visited,A:active,A:hover
+{
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: normal;
+    COLOR: #660066;
+}
+A:visited {COLOR: #000066;}
+A:hover	  {COLOR: #cc33cc;}
+
+/*	A.Small */
+A.Warning:link,A.Warning:visited,A.Warning:active,A.Warning:hover
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 8pt;
+	BACKGROUND-COLOR: #CC2244;
+	font-weight: bold;
+	padding: 4px 4px 4px 4px;
+    COLOR: #fff8ff;
+}
+A.Warning:visited {COLOR: #fff8ff;}
+A.Warning:hover	{COLOR: #ffddee;}
+
+/*	A.Small */
+A.Small:link,A.Small:visited,A.Small:active,A.Small:hover
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 8pt;
+	font-weight: bold;
+    COLOR: #660066;
+}
+A.Small:visited {COLOR: #000066;}
+A.Small:hover	{COLOR: #6666cc;}
+
+A.SmallN:link,A.SmallN:visited,A.SmallN:active,A.SmallN:hover
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 8pt;
+	font-weight: normal;
+    COLOR: #660066;
+}
+A.SmallN:visited {COLOR: #000066;}
+A.SmallN:hover	{COLOR: #6666cc;}
+
+A.SmallN_NoDec:link,A.SmallN_NoDec:visited,A.SmallN_NoDec:active,A.SmallN_NoDec:hover
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 8pt;
+	font-weight: normal;
+    COLOR: #000066;
+    TEXT-DECORATION: none
+}
+A.SmallN_NoDec:visited {COLOR: #000066;}
+A.SmallN_NoDec:hover	{COLOR: #6666cc;}
+
+A.NoDec:link
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 9pt;
+	font-weight: bold;
+    COLOR: #000066;
+    TEXT-DECORATION: none
+}
+A.NoDec:visited
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 9pt;
+	font-weight: bold;
+    COLOR: #660066;
+    TEXT-DECORATION: none
+}
+A.NoDec:active
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 9pt;
+	font-weight: bold;
+    COLOR: #000066;
+    TEXT-DECORATION: none
+}
+A.NoDec:hover
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 9pt;
+	font-weight: bold;
+    COLOR: #6666cc;
+    TEXT-DECORATION: none
+}
+.SmallNoDec
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 8pt;
+	font-weight: bold;
+    COLOR: #000033;
+}
+A.SmallNoDec:link
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 8pt;
+	font-weight: bold;
+    COLOR: #000066;
+    TEXT-DECORATION: none
+}
+A.SmallNoDec:visited
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 8pt;
+	font-weight: bold;
+    COLOR: #000066;
+    TEXT-DECORATION: none
+}
+A.SmallNoDec:active
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 8pt;
+	font-weight: bold;
+    COLOR: #000066;
+    TEXT-DECORATION: none
+}
+A.SmallNoDec:hover
+{
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 8pt;
+	font-weight: bold;
+    COLOR: #6666cc;
+    TEXT-DECORATION: none
+}
+
+.DescripLabel
+{
+	background-color:	#fff0ff;	
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 10pt;
+	font-weight: bold;
+    COLOR: #000066;
+}
+
+.Descrip
+{
+	background-color:	#fff0ff;	
+    FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+	FONT-SIZE: 10pt;
+	font-weight: normal;
+    COLOR: #000066;
+}

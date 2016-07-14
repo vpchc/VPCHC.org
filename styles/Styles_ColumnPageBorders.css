@@ -1,0 +1,92 @@
+#ColumnPageBorderTopBanner {
+	position:			relative;
+	top:				0px;
+	left:				0px;
+/*//	height:				104px;*/
+/*//	width:				640px;*/
+	background-color:	#000066;
+	border:				0px;
+}
+#NoticePageBorderTopBanner {
+	position:			relative;
+	top:				0px;
+	left:				0px;
+	height:				90px;
+	background-color:	#000066;
+	border:				0px;
+}
+#SmallNoticePageBorderTopBanner {
+	position:			relative;
+	top:				0px;
+	left:				0px;
+	height:				60px;
+	background-color:	#000066;
+	border:				0px;
+}
+.HeaderTitle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    COLOR: #000033;
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    white-space: nowrap;
+}
+.HeaderSubtitle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: #000033;
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    white-space: nowrap;
+}
+.HeaderLowerSubtitle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: white;
+    FONT-FAMILY: arial, helvetica, sans-serif;
+    white-space: nowrap;
+    padding: 4px 12px 4px 12px;
+}
+#BorderLeftBanner {
+	position:			relative;
+	top:				0px;
+	left:				0px;
+	width:				135px;
+	background-color:	#fff8ff;
+}
+#MainBody {
+	position:			relative;
+	top:				0px;
+//	width:				624px;	
+	background-color:	#f8f8ff;
+	border:				blue solid 0px;
+	margin:				0px;
+	padding-top:		12px;
+	padding-left:		8px;
+	padding-right:		8px;
+}
+#MainNoticeBody {
+	position:			absolute;
+	top:				90px;
+	left:				0px;
+	background-color:	#f8f8ff;
+	border:				blue solid 0px;
+	margin:				0px;
+	margin-left:		0px;
+	padding-top:		32px;
+	padding-right:		40px;
+	padding-left:		40px;
+}
+#MainSmallNoticeBody {
+	position:			absolute;
+	top:				60px;
+	left:				0px;
+	background-color:	#f8f8ff;
+	border:				blue solid 0px;
+	margin:				0px;
+	margin-left:		0px;
+	padding-top:		16px;
+	padding-right:		30px;
+	padding-left:		30px;
+}
